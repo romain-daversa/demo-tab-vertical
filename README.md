@@ -1,2 +1,2 @@
-# demo-tab-vertical
+# demo-buttons
 Created with CodeSandbox
